@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1" conditions="General.OnlineOnly">
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Print-only/Title.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" conditions="General.PrintOnly" BreakType="pageLayout" PageType="title" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Title.flpgl" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Contents.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" conditions="General.PrintOnly" BreakType="chapter" StartSection="false" PageNumberReset="continue" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberReset="continue" ComputeToc="false" ReplaceMergeNode="false" PageType="first" PageNumberFormat="decimal" PageLayout="/Content/Resources/PageLayouts/Chapter.flpgl" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/A_Introduction Topics/About Agile.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" ReplaceMergeNode="false" PageNumber="1" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberReset="reset" ChapterNumber="1" ChapterNumberFormat="decimal">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/A_Introduction Topics/Agile values and principles.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ChapterNumberReset="reset" ChapterNumber="2" StartSection="false" SectionNumberReset="continue" VolumeNumberReset="same" ComputeToc="false" ReplaceMergeNode="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/A_Introduction Topics/Agile benefits.htm" ChapterNumberReset="reset" ChapterNumber="3" StartSection="false" SectionNumberReset="continue" VolumeNumberReset="same">
+        </TocEntry>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/A_Introduction Topics/Agile SDLC model.htm" ComputeToc="false">
+        </TocEntry>
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/C_Procedure Topics/Popular Agile methodologies.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="chapter" StartSection="false" PageNumberReset="continue" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberReset="continue" ComputeToc="false">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/C_Procedure Topics/Extreme programming (XP).htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/C_Procedure Topics/Kanban.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/C_Procedure Topics/Scrum.htm" />
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/D_More Information/Company Information.htm" conditions="General.PrintOnly" BreakType="chapter" StartSection="false" PageNumberReset="continue" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberReset="continue" ComputeToc="false">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/D_More Information/Glossary.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" StartSection="false" BreakType="chapter" SyncDocumentTitle="True" PageNumberReset="continue" ComputeToc="false" ReplaceMergeNode="false" conditions="General.PrintOnly" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/D_More Information/Contacts.htm" conditions="General.OnlineOnly" BreakType="chapter" StartSection="false" PageNumberReset="continue" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/D_More Information/List of resources.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" />
+    </TocEntry>
+</CatapultToc>

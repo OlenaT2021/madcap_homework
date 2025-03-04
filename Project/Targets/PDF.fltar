@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="Agile PDF" Type="PDF" Destinations="" ShowMadCapBacklink="true" ConditionTagExpression="include[&quot;General.All users&quot; or General.PrintOnly], exclude[General.OnlineOnly or &quot;General.Project managers&quot;]" PatchHeadingLevels="false" MasterToc="/Project/TOCs/Online.fltoc" InjectEmptyPages="false">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" OutputFormat="docx" />
+    <PDF Tagged="true" TitleBar="DocumentTitle" ShowUsedBookmarks="false" />
+    <Glossaries>
+        <Glossary Link="/Project/Glossaries/Agile glossary.flglo" />
+    </Glossaries>
+</CatapultTarget>

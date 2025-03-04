@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="General.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="First" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="first" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in">
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="-0.6875in" Y="18px" Right="-0.21875in" Bottom="-0.07291666in" Width="6.90625in" Height="8.885417in">
+        </Frame>
+        <Frame Flow="footer" Anchors="Top" Right="-1.020833in" X="-1.489583in" Y="9.25in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="69px" BorderTopStyle="solid" BorderTopWidth="1pt" BorderTopColor="#f5f5f5" VerticalAlign="middle" TextAlign="center" Width="8.510417in" Bottom="-93px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p>- <MadCap:variable xhtml:name="System.PageNumber" /> -</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-142px" Y="-95px" Width="813px" Height="93px" Flow="header" Right="-95px" Bottom="866px" BackgroundPositionX="60px" BackgroundPositionY="center" BackgroundRepeat="no-repeat" Anchors="" BackgroundImage="../Images/Assets/PlaceholderLogo/logo_agile.png" BorderBottomStyle="solid" BorderBottomWidth="1px" BorderBottomColor="#f5f5f5" />
+    </Page>
+</PageStyles>

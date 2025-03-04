@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary conditions="General.PrintOnly">
+    <GlossaryEntry glossTerm="Agile glossary.Term0" Stem="" IgnoreCase="true" TermClass="">
+        <Terms>
+            <Term>Agile</Term>
+        </Terms>
+        <Definition Link="">the ability to create and respond to change. It is a way of dealing with, and ultimately succeeding in, an uncertain and turbulent environment</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Agile glossary.Term1" Stem="" IgnoreCase="true" TermClass="">
+        <Terms>
+            <Term>Agile project management</Term>
+        </Terms>
+        <Definition Link="">a faster and more adaptive approach to managing projects</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Agile glossary.Term2" Stem="" IgnoreCase="false" TermClass="">
+        <Terms>
+            <Term>Agile Manifesto</Term>
+        </Terms>
+        <Definition Link="">a document that identifies four key values and 12 principles that its authors believe software developers should use to guide their work</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Agile glossary.Term3" Stem="" IgnoreCase="true" TermClass="">
+        <Terms>
+            <Term>Agile software development life cycle</Term>
+        </Terms>
+        <Definition Link="">the structured series of stages that a product goes through as it moves from beginning to end</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Agile glossary.Term4" Stem="" IgnoreCase="true" TermClass="">
+        <Terms>
+            <Term>Agile methodology</Term>
+        </Terms>
+        <Definition Link="">a project management approach that involves breaking the project into phases and emphasizes continuous collaboration and improvement</Definition>
+    </GlossaryEntry>
+</CatapultGlossary>

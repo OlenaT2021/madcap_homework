@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="General.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="Title" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="title" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" BackgroundColor="#f8f8ff" BackgroundColorAlt="#f8f8ff" BackgroundType="Solid">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="1.09375in" Y="3.145833in" Right="-0.1979167in" Bottom="1.489583in" Width="490px" Height="419px" BackgroundPositionX="right" BackgroundPositionY="center">
+        </Frame>
+        <Frame X="-142px" Y="-94px" Width="813px" Height="138px" Flow="header" Right="-95px" Bottom="820px" BackgroundRepeat="no-repeat" Anchors="" BackgroundImage="../Images/Assets/PlaceholderLogo/logo_agile.png" BackgroundPositionX="60px" BackgroundPositionY="center" />
+    </Page>
+</PageStyles>

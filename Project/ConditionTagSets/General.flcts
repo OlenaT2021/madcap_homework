@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+    <ConditionTag Comment="" Name="All users" BackgroundColor="#cbf6f5" OriginalName="All users" />
+    <ConditionTag Comment="" Name="Project managers" BackgroundColor="#f4aff7" OriginalName="Project managers" />
+    <ConditionTag BackgroundColor="#9c1ca2" Name="PrintOnly" Comment="" OriginalName="PrintOnly" />
+    <ConditionTag BackgroundColor="#e7245a" Name="OnlineOnly" Comment="" />
+</CatapultConditionTagSet>
