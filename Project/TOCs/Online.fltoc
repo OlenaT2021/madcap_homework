@@ -84,14 +84,14 @@
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/D_More Information/Company Information.htm"
-    conditions="General.PrintOnly"
     BreakType="chapter"
     StartSection="false"
     PageNumberReset="continue"
     SectionNumberReset="continue"
     VolumeNumberReset="same"
     ChapterNumberReset="continue"
-    ComputeToc="false">
+    ComputeToc="false"
+    conditions="General.OnlineOnly">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/D_More Information/Contacts.htm"
@@ -104,7 +104,8 @@
       Link="/Content/D_More Information/List of resources.htm"
       BreakType="chapter"
       StartSection="false"
-      PageNumberReset="continue" />
+      PageNumberReset="continue"
+      conditions="General.OnlineOnly" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
@@ -115,5 +116,5 @@
     PageNumberReset="continue"
     ComputeToc="false"
     ReplaceMergeNode="false"
-    conditions="General.PrintOnly" />
+    conditions="General.OnlineOnly" />
 </CatapultToc>
