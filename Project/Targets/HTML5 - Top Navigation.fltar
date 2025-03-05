@@ -9,7 +9,7 @@
   EnableResponsiveOutput="true"
   MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
   ResultsPerPage="10"
-  ConditionTagExpression="include[Default.ScreenOnly or General.OnlineOnly], exclude[Default.PrintOnly or &quot;General.All users&quot; or General.PrintOnly or &quot;General.Project managers&quot;]"
+  ConditionTagExpression="include[General.OnlineOnly], exclude[&quot;General.All users&quot; or General.PrintOnly or &quot;General.Project managers&quot;]"
   DefaultUrl="/Content/Home.htm"
   MasterStylesheetOverride="true"
   FaviconSkin="/Project/Skins/Favicon.flskn"
