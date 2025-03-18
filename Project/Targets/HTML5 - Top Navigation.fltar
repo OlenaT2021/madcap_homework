@@ -36,7 +36,10 @@
       Publish="true"
       IsResource="false" />
   </Destinations>
-  <Glossaries></Glossaries>
+  <Glossaries>
+    <Glossary
+      Link="/Project/Glossaries/Agile glossary.flglo" />
+  </Glossaries>
   <MicroContentSearch>
     <FeaturedSnippets
       type="AllFiles"

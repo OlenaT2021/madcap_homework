@@ -105,16 +105,9 @@
       BreakType="chapter"
       StartSection="false"
       PageNumberReset="continue"
-      conditions="General.OnlineOnly" />
+      conditions="General.OnlineOnly"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/D_More Information/Glossary.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/D_More Information/Glossary.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-    StartSection="false"
-    BreakType="chapter"
-    SyncDocumentTitle="True"
-    PageNumberReset="continue"
-    ComputeToc="false"
-    ReplaceMergeNode="false"
-    conditions="General.OnlineOnly" />
 </CatapultToc>

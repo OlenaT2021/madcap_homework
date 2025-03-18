@@ -4,7 +4,8 @@
   conditions="General.PrintOnly">
   <TocEntry
     Title="Title"
-    Link="/Content/Resources/PageLayouts/Title.flpgl" />
+    Link="/Content/Resources/PageLayouts/Title.flpgl"
+    conditions="General.PrintOnly" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/Contents.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
