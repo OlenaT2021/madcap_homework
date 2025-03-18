@@ -32,7 +32,7 @@
     OutputFormat="doc" />
   <Destinations>
     <Destination
-      Link="/Project/Destinations/NewDestination.fldes"
+      Link="/Project/Destinations/NewDestination2.fldes"
       Publish="true"
       IsResource="false" />
   </Destinations>
