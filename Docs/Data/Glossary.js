@@ -1,0 +1,1 @@
+define({numchunks:1,prefix:'Glossary_Chunk',terms:[{t:'Agile',c:0},{t:'Agile Manifesto',c:0},{t:'Agile methodology',c:0},{t:'Agile project management',c:0},{t:'Agile software development life cycle',c:0}]});
